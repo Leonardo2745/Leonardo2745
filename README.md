@@ -15,6 +15,5 @@
 
 ## REPOSITÓRIOS:
 
-### ***>*** [**Portifólio**](https://github.com/Leonardo2745/PORTFOLIO_SITE_LEONARDOAUGUSTO) ;
 
 ### ***>*** [**App Inventor**](https://github.com/Leonardo2745/App-Inventor) ;
