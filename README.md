@@ -9,7 +9,7 @@
 
 ### ***>*** Estudo no [**SENAI CFP José Fernando Coura**](https://goo.gl/maps/gFho9NV2kCMmVZ1i6) ;
 
-### ***>*** Cursando Tec. Informática para Internet ;
+### ***>*** Formado em Tec. Informática para Internet ;
 
 ### ***>*** Formado na [**E. Estadual Desembargador Moreira dos Santos**](https://goo.gl/maps/wReTpEk7BTFAXj4UA) ;
 
