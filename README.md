@@ -13,6 +13,8 @@
 
 ### ***>*** Formado na [**E. Estadual Desembargador Moreira dos Santos**](https://goo.gl/maps/wReTpEk7BTFAXj4UA) ;
 
+### ***>*** Atualmente cursando qualificação em Node.js e React
+
 ## REPOSITÓRIOS:
 
 
