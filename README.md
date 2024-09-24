@@ -1,9 +1,17 @@
 # ***Olá, seja muito bem-vindo ao meu perfil !!*** :computer::brain:
 
-
+## Sobre mim
 ### :arrow_forward: **Nome**: Leonardo Augusto Dias Cardoso
 
 ### :arrow_forward: **Idade**: 19 anos
+
+### Tenho interesse em cargos na área da programação.
+
+### Curiosidade sobre mim: Gosto de fazer brincadeiras para descontrair o ambiente (^-^).
+
+### Entre em contato comigo:
+### - WhatsApp: (31) 98347-4108
+### - Linkedin: [**Meu perfil**](https://www.linkedin.com/in/leonardo-augusto-01290531a/)
 
 ### ***>*** Moro em [**São Gonçalo do Rio Abaixo**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
 
