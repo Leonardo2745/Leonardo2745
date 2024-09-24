@@ -7,6 +7,8 @@
 
 ### Tenho interesse em cargos na área da programação.
 
+### Estou querendo colaborar em projetos OpenSource em React/Node
+
 ### Curiosidade sobre mim: Gosto de fazer brincadeiras para descontrair o ambiente (^-^).
 
 ### Entre em contato comigo:
@@ -38,6 +40,8 @@
 ### :arrow_forward: **Age**: 19 years old
 
 ### I am interested in positions in the programming area.
+
+### I'm looking to collaborate on OpenSource projects in React/Node
 
 ### Fun fact about me: I like to play games to relax the atmosphere (^-^).
 
