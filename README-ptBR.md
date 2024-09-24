@@ -1,3 +1,5 @@
+# ***Olá, seja muito bem-vindo ao meu perfil !!*** :computer::brain:
+
 ## Sobre mim
 ### :arrow_forward: **Nome**: Leonardo Augusto Dias Cardoso
 
