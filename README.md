@@ -10,7 +10,7 @@
 ### Curiosidade sobre mim: Gosto de fazer brincadeiras para descontrair o ambiente (^-^).
 
 ### Entre em contato comigo:
-### - WhatsApp: (31) 98347-4108
+
 ### - Linkedin: [**Meu perfil**](https://www.linkedin.com/in/leonardo-augusto-01290531a/)
 
 ### ***>*** Moro em [**São Gonçalo do Rio Abaixo**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
@@ -42,7 +42,7 @@
 ### Fun fact about me: I like to play games to relax the atmosphere (^-^).
 
 ### Contact me:
-### - WhatsApp: (31) 98347-4108
+
 ### - Linkedin: [**My profile**](https://www.linkedin.com/in/leonardo-augusto-01290531a/)
 
 ### ***>*** I live in [**São Gonçalo do Rio Below**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
