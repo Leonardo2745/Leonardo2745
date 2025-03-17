@@ -22,11 +22,13 @@
 
 ### ***>*** Study at [**SENAI CFP José Fernando Coura**](https://goo.gl/maps/gFho9NV2kCMmVZ1i6) ;
 
-### ***>*** Graduated in Tec. Internet computing;
-
 ### ***>*** Graduated from [**E. Estadual Desembargador Moreira dos Santos**](https://goo.gl/maps/wReTpEk7BTFAXj4UA) ;
 
-### ***>*** Currently studying qualifications in Node.js and React
+### ***>*** Graduated in Tec. Internet computing;
+
+### ***>*** Graduated in qualifications in Node.js and React;
+
+### ***>*** Currently in qualifications in web programming with PHP;
 
 ## REPOSITORIES:
 
