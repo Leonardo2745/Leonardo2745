@@ -14,10 +14,6 @@
 
 ### Fun fact about me: I like to play games to relax the atmosphere (^-^).
 
-### Contact me:
-
-### - Linkedin: [**My profile**](https://www.linkedin.com/in/leonardo-augusto-01290531a/)
-
 ### ***>*** I live in [**São Gonçalo do Rio Abaixo**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
 
 ### ***>*** Study at [**SENAI CFP José Fernando Coura**](https://goo.gl/maps/gFho9NV2kCMmVZ1i6) ;
@@ -29,6 +25,11 @@
 ### ***>*** Graduated in qualifications in Node.js and React;
 
 ### ***>*** Currently in qualifications in web programming with PHP;
+
+### Contact me:
+
+### - Linkedin: [**My profile**](https://www.linkedin.com/in/leonardo-augusto-01290531a/)
+
 
 ## REPOSITORIES:
 
