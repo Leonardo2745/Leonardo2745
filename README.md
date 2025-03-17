@@ -24,7 +24,7 @@
 
 ### ***>*** Graduated in Tec. Internet computing;
 
-### ***>*** Graduated from [**E. State Judge Moreira dos Santos**](https://goo.gl/maps/wReTpEk7BTFAXj4UA) ;
+### ***>*** Graduated from [**E. Estadual Desembargador Moreira dos Santos**](https://goo.gl/maps/wReTpEk7BTFAXj4UA) ;
 
 ### ***>*** Currently studying qualifications in Node.js and React
 
