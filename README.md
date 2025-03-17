@@ -1,8 +1,7 @@
 
 # ***Hello, welcome to my profile!!*** :computer::brain:
 
-## About me
-
+## About me:
 
 ### :arrow_forward: **Name**: Leonardo Augusto Dias Cardoso
 
@@ -15,6 +14,8 @@
 ### Fun fact about me: I like to play games to relax the atmosphere (^-^).
 
 ### ***>*** I live in [**São Gonçalo do Rio Abaixo**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
+
+## Academic history:
 
 ### ***>*** Study at [**SENAI CFP José Fernando Coura**](https://goo.gl/maps/gFho9NV2kCMmVZ1i6) ;
 
