@@ -18,7 +18,7 @@
 
 ### - Linkedin: [**My profile**](https://www.linkedin.com/in/leonardo-augusto-01290531a/)
 
-### ***>*** I live in [**São Gonçalo do Rio Below**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
+### ***>*** I live in [**São Gonçalo do Rio Abaixo**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
 
 ### ***>*** Study at [**SENAI CFP José Fernando Coura**](https://goo.gl/maps/gFho9NV2kCMmVZ1i6) ;
 
