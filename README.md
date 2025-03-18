@@ -7,7 +7,7 @@
 
 ### :arrow_forward: **Age**: 19 years old
 
-### I am interested in positions in the programming area.
+### I´m looking for web developer role.
 
 ### I'm looking to collaborate on OpenSource projects in React/Node
 
