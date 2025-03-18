@@ -21,9 +21,9 @@
 
 ### ***>*** Graduated in Tec. Internet computing;
 
-### ***>*** Graduated in qualifications in Node.js and React;
+### ***>*** Graduated in qualification in Node.js and React;
 
-### ***>*** Currently in qualifications in web programming with PHP;
+### ***>*** Currently in qualification in web programming with PHP;
 
 ## Contact me:
 
