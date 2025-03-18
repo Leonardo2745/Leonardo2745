@@ -25,9 +25,6 @@
 
 ### ***>*** Currently in qualification in web programming with PHP;
 
-## Contact me:
-
-### - Linkedin: [**My profile**](https://www.linkedin.com/in/leonardo-augusto-01290531a/)
 
 ## REPOSITORIES:
 
