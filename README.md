@@ -9,7 +9,7 @@
 
 ### I´m looking for web developer role.
 
-### I'm looking to collaborate on OpenSource projects in React/Node
+### I'm seeking for colaborating at React/Node opensource projects
 
 ### Fun fact about me: I like to play games to relax the atmosphere (^-^).
 
