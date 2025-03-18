@@ -28,11 +28,8 @@
 ## Contact me:
 
 ### - Linkedin: [**My profile**](https://www.linkedin.com/in/leonardo-augusto-01290531a/)
-### - Email: (leonardoaugustodiascardosoc@gmail.com)
-
 
 ## REPOSITORIES:
-
 
 ### ***>*** [**App Inventor**](https://github.com/Leonardo2745/App-Inventor) ;
 
