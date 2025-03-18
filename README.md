@@ -11,7 +11,7 @@
 
 ### I'm seeking for colaborating at React/Node opensource projects
 
-### Fun fact about me: I like to play games to relax the atmosphere (^-^).
+### Fun fact about me: I like to play games to chiling at nature (^-^).
 
 ### ***>*** I live in [**São Gonçalo do Rio Abaixo**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
 
