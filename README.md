@@ -28,8 +28,6 @@
 
 <p>
 
-## REPOSITORIES:
 
-### ***>*** [**App Inventor**](https://github.com/Leonardo2745/App-Inventor) ;
 
 
