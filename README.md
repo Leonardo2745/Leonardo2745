@@ -15,7 +15,7 @@
 
 ### ***>*** I live in [**São Gonçalo do Rio Abaixo**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
 
-## BASIC KNOWLEDGE:
+## BASIC KNOWLEDGE IN:
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
