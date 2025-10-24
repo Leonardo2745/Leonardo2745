@@ -9,11 +9,15 @@
 
 ### I´m looking for web developer role.
 
-### I'm seeking for colaborating at React/Node opensource projects.
-
 ### I'm seek opportunities to further enhance my knowledge and to contribute in the most effective way.
 
 ### ***>*** I live in [**São Gonçalo do Rio Abaixo**](https://goo.gl/maps/ES6ucZyVt4QQm1Sh8) ;
+
+## Linux Distro:
+
+<p>
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40"/>
+</p>
 
 ## BASIC KNOWLEDGE IN:
 
@@ -26,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+
 <p>
 
 ## IDEs:
