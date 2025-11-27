@@ -1,6 +1,13 @@
 
 # ***Hello, welcome to my profile!!*** :computer::brain:
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardo2745/Leonardo2745/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leonardo2745/Leonardo2745/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leonardo2745/Leonardo2745/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ## About me:
 
 ### :arrow_forward: **Name**: Leonardo Augusto Dias Cardoso
